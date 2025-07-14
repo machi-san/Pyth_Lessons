@@ -1,0 +1,6 @@
+def function1():
+    courses = ["B.Sc IT", "CSE"]
+    for cname in courses:
+        print("We have students from " + cname + " Final Year")
+
+function1()
