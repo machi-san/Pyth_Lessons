@@ -1,0 +1,7 @@
+n = 10
+sum = 0 
+i = 5 
+while i<= n:
+    sum = sum + i 
+    i = i + 1 
+    print("The sum is ", sum)
