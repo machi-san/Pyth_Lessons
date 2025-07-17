@@ -1,0 +1,4 @@
+new_text = 'learn until you win'
+print(new_text.split())
+stationary = 'book, pen, pencil'
+print(stationary.split())
