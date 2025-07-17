@@ -1,0 +1,5 @@
+str1 = 'We are'
+str2 = ' Students'
+
+print('String 1 + String 2 = ', str1+str2)
+print('String 2 * 3 = ', str2*3)
