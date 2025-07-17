@@ -1,0 +1,5 @@
+def grid(r,c):
+    x = ('+----' * c + '+')
+    y = ('\n' + '|   ' * (c+1))
+    return((x + 4 * y) + '\n') * r + x
+print(grid(1,2))
