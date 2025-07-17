@@ -1,0 +1,13 @@
+new_list = [10, 20, 30, 40, 50]
+print(new_list)
+
+print("The first element in the list is ", new_list[0])
+print("The fourth element in the list is ", new_list[3])
+
+print(new_list[2:5])
+
+#nested list
+nest_list = ["Year 3", [1, 2, 3], ['IT']]
+
+print(nest_list[1][2])
+print(nest_list[2][0])
