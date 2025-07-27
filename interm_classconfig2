@@ -1,0 +1,17 @@
+# Define a class
+class Employee:
+    #define a property 
+    Employee_id=0
+# create two objects of the Employee class
+
+employee1 = Employee()
+employee2 = Employee()
+# access property using Employee1
+
+employee1.employee_id=1001
+print(f"EmployeeID:{employee1.employee_id}")
+
+# access property using Employee2
+
+employee2.employee_id=1002
+print(f"EmployeeID:{employee2.employee_id}")
